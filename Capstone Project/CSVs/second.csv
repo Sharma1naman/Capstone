@@ -1,0 +1,51 @@
+,Movie Name,Star1,Star2,Star3,Star4,Votes,Genre1,Genre2,Genre3,Gross collection,Popularity,Certification
+0,The Dark Knight,Christian Bale,Heath Ledger,Aaron Eckhart,Michael Caine,"2,758,794",Action,Crime,Drama,$534.86M,9.0,PG-13
+1,The Lord of the Rings: The Return of the King,Elijah Wood,Viggo Mortensen,Ian McKellen,Orlando Bloom,"1,906,178",Action,Adventure,Drama,$377.85M,9.0,PG-13
+2,Spider-Man: Across the Spider-Verse,Shameik Moore,Hailee Steinfeld,Brian Tyree Henry,Luna Lauren Velez,"205,631",Animation,Action,Adventure,NaN,8.9,PG
+3,Inception,Leonardo DiCaprio,Joseph Gordon-Levitt,Elliot Page,Ken Watanabe,"2,449,176",Action,Adventure,Sci-Fi,$292.58M,8.8,PG-13
+4,The Lord of the Rings: The Fellowship of the Ring,Elijah Wood,Ian McKellen,Orlando Bloom,Sean Bean,"1,934,377",Action,Adventure,Drama,$315.54M,8.8,PG-13
+5,The Lord of the Rings: The Two Towers,Elijah Wood,Ian McKellen,Viggo Mortensen,Orlando Bloom,"1,720,087",Action,Adventure,Drama,$342.55M,8.8,PG-13
+6,The Matrix,Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss,Hugo Weaving,"1,978,758",Action,Sci-Fi,NaN,$171.48M,8.7,R
+7,Star Wars: Episode V - The Empire Strikes Back,Mark Hamill,Harrison Ford,Carrie Fisher,Billy Dee Williams,"1,334,620",Action,Adventure,Fantasy,$290.48M,8.7,PG
+8,Soorarai Pottru,Suriya,Paresh Rawal,Urvashi,Aparna Balamurali,"120,271",Action,Drama,NaN,NaN,8.7,TV-MA
+9,Terminator 2: Judgment Day,Arnold Schwarzenegger,Linda Hamilton,Edward Furlong,Robert Patrick,"1,135,297",Action,Sci-Fi,NaN,$204.84M,8.6,R
+10,Star Wars,Mark Hamill,Harrison Ford,Carrie Fisher,Alec Guinness,"1,406,654",Action,Adventure,Fantasy,$322.74M,8.6,PG
+11,Shichinin no samurai,Toshirô Mifune,Takashi Shimura,Keiko Tsushima,Yukiko Shimazaki,"356,106",Action,Drama,NaN,$0.27M,8.6,Not Rated
+12,Seppuku,Tatsuya Nakadai,Akira Ishihama,Shima Iwashita,Tetsurô Tanba,"62,767",Action,Drama,Mystery,NaN,8.6,Not Rated
+13,Sita Ramam,Dulquer Salmaan,Mrunal Thakur,Rashmika Mandanna,Sumanth,"61,883",Action,Drama,Mystery,NaN,8.6,U
+14,Gladiator,Russell Crowe,Joaquin Phoenix,Connie Nielsen,Oliver Reed,"1,552,386",Action,Adventure,Drama,$187.71M,8.5,R
+15,Léon,Jean Reno,Gary Oldman,Natalie Portman,Danny Aiello,"1,202,120",Action,Crime,Drama,$19.50M,8.5,R
+16,The Dark Knight Rises,Christian Bale,Tom Hardy,Anne Hathaway,Gary Oldman,"1,764,221",Action,Drama,Thriller,$448.14M,8.4,PG-13
+17,Avengers: Endgame,Robert Downey Jr.,Chris Evans,Mark Ruffalo,Chris Hemsworth,"1,203,144",Action,Adventure,Drama,$858.37M,8.4,PG-13
+18,Spider-Man: Into the Spider-Verse,Shameik Moore,Jake Johnson,Hailee Steinfeld,Mahershala Ali,"617,646",Animation,Action,Adventure,$190.24M,8.4,PG
+19,Raiders of the Lost Ark,Harrison Ford,Karen Allen,Paul Freeman,John Rhys-Davies,"1,007,763",Action,Adventure,NaN,$248.16M,8.4,PG
+20,Aliens,Sigourney Weaver,Michael Biehn,Carrie Henn,Paul Reiser,"739,359",Action,Adventure,Sci-Fi,$85.16M,8.4,R
+21,Oldeuboi,Choi Min-sik,Yoo Ji-tae,Kang Hye-jeong,Kim Byeong-Ok,"604,422",Action,Drama,Mystery,$0.71M,8.4,R
+22,Avengers: Infinity War,Robert Downey Jr.,Chris Hemsworth,Mark Ruffalo,Chris Evans,"1,144,860",Action,Adventure,Sci-Fi,$678.82M,8.4,PG-13
+23,Kaithi,Karthi,Narain,Arjun Das,George Maryan,"37,002",Action,Adventure,Crime,NaN,8.4,Not Rated
+24,Asuran,Dhanush,Manju Warrier,Prakash Raj,Pasupathy,"31,661",Action,Drama,NaN,NaN,8.4,Not Rated
+25,Top Gun: Maverick,Tom Cruise,Jennifer Connelly,Miles Teller,Val Kilmer,"619,407",Action,Drama,NaN,$718.73M,8.3,PG-13
+26,Heat,Al Pacino,Robert De Niro,Val Kilmer,Jon Voight,"686,747",Action,Crime,Drama,$67.44M,8.3,R
+27,North by Northwest,Cary Grant,Eva Marie Saint,James Mason,Jessie Royce Landis,"337,288",Action,Adventure,Mystery,$13.28M,8.3,Approved
+28,Star Wars: Episode VI - Return of the Jedi,Mark Hamill,Harrison Ford,Carrie Fisher,Billy Dee Williams,"1,087,868",Action,Adventure,Fantasy,$309.13M,8.3,PG
+29,Mononoke-hime,Yôji Matsuda,Yuriko Ishida,Yûko Tanaka,Billy Crudup,"412,449",Animation,Action,Adventure,$2.38M,8.3,PG-13
+30,Dangal,Aamir Khan,Sakshi Tanwar,Fatima Sana Shaikh,Sanya Malhotra,"200,043",Action,Biography,Drama,$12.39M,8.3,Not Rated
+31,Kantara,Rishab Shetty,Kishore Kumar G.,Achyuth Kumar,Sapthami Gowda,"97,280",Action,Adventure,Drama,NaN,8.3,Not Rated
+32,Vikram,Kamal Haasan,Vijay Sethupathi,Fahadh Faasil,Narain,"65,178",Action,Crime,Thriller,NaN,8.3,UA
+33,K.G.F: Chapter 2,Yash,Sanjay Dutt,Raveena Tandon,Srinidhi Shetty,"141,526",Action,Crime,Drama,$6.60M,8.3,Not Rated
+34,Shershaah,Sidharth Malhotra,Kiara Advani,Shiv Panditt,Pranay Pachauri,"125,846",Action,Biography,Drama,NaN,8.3,TV-14
+35,Ratsasan,Vishnu Vishal,Amala Paul,Radha Ravi,Sangili Murugan,"47,661",Action,Crime,Drama,NaN,8.3,Not Rated
+36,Batman Begins,Christian Bale,Michael Caine,Ken Watanabe,Liam Neeson,"1,523,788",Action,Crime,Drama,$206.85M,8.2,PG-13
+37,Spider-Man: No Way Home,Tom Holland,Zendaya,Benedict Cumberbatch,Jacob Batalon,"821,005",Action,Adventure,Fantasy,$804.75M,8.2,PG-13
+38,Jurassic Park,Sam Neill,Laura Dern,Jeff Goldblum,Richard Attenborough,"1,027,337",Action,Adventure,Sci-Fi,$402.45M,8.2,PG-13
+39,1917,Dean-Charles Chapman,George MacKay,Daniel Mays,Colin Firth,"634,880",Action,Drama,War,$159.23M,8.2,R
+40,Indiana Jones and the Last Crusade,Harrison Ford,Sean Connery,Alison Doody,Denholm Elliott,"787,430",Action,Adventure,NaN,$197.17M,8.2,PG-13
+41,Kill Bill: Vol. 1,Uma Thurman,David Carradine,Daryl Hannah,Michael Madsen,"1,151,974",Action,Crime,Thriller,$70.10M,8.2,R
+42,V for Vendetta,Hugo Weaving,Natalie Portman,Rupert Graves,Stephen Rea,"1,149,198",Action,Drama,Sci-Fi,$70.51M,8.2,R
+43,Die Hard,Bruce Willis,Alan Rickman,Bonnie Bedelia,Reginald VelJohnson,"908,708",Action,Thriller,NaN,$83.01M,8.2,R
+44,Ran,Tatsuya Nakadai,Akira Terao,Jinpachi Nezu,Daisuke Ryû,"130,911",Action,Drama,War,$4.14M,8.2,R
+45,Kimetsu no Yaiba: Mugen Ressha-Hen,Natsuki Hanae,Akari Kitô,Yoshitsugu Matsuoka,Hiro Shimono,"66,767",Animation,Action,Adventure,$47.70M,8.2,R
+46,Gangs of Wasseypur,Manoj Bajpayee,Nawazuddin Siddiqui,Tigmanshu Dhulia,Richa Chadha,"100,141",Action,Comedy,Crime,NaN,8.2,Not Rated
+47,Yôjinbô,Toshirô Mifune,Eijirô Tôno,Tatsuya Nakadai,Yôko Tsukasa,"127,187",Action,Drama,Thriller,NaN,8.2,Not Rated
+48,K.G.F: Chapter 1,Yash,Srinidhi Shetty,Ramachandra Raju,Archana Jois,"92,930",Action,Crime,Drama,NaN,8.2,Not Rated
+49,Baahubali 2: The Conclusion,Prabhas,Rana Daggubati,Anushka Shetty,Tamannaah Bhatia,"108,468",Action,Drama,NaN,$20.19M,8.2,Not Rated
